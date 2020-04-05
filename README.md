@@ -4,22 +4,24 @@ Autolib is an electric car service sharing company that has various stations in 
 # Installation Requirements
 
 ```
- -Google account
+ Google account
 ```
- -Google colab notebook
+ Google colab notebook
 ```
- -Pandas and numpy for analysis
+ Pandas and numpy for analysis
 ```
- -Data Cleaning tools
+ Data Cleaning tools
+```
 
 # Known Bugs
 
 ```
--There were no known bugs
+There were no known bugs
+
 # Contact
 
 ```
--gmail: ndungumarion@gmail.com
+gmail: ndungumarion@gmail.com
 
 #By:
 
