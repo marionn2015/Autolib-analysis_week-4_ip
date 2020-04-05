@@ -18,7 +18,6 @@ Autolib is an electric car service sharing company that has various stations in 
 ```
 There were no known bugs
 
-```
 
 # Contact
 
