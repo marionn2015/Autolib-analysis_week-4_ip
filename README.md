@@ -4,12 +4,16 @@ Autolib is an electric car service sharing company that has various stations in 
 # INSTALATION REQUIREMENTS
 ```
  Google account
+
 ```
  Google colab notebook
+
 ```
  Pandas and numpy for analysis
+
 ```
  Data Cleaning tools
+
 ```
 # KNOWN BUGS
   There were no known bugs
