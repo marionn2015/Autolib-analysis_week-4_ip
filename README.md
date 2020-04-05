@@ -11,9 +11,9 @@ Autolib is an electric car service sharing company that has various stations in 
  Pandas and numpy for analysis
 ```
  Data Cleaning tools
-```
 
-# Known Bugs
+
+# Bugs
 
 ```
 There were no known bugs
@@ -23,7 +23,7 @@ There were no known bugs
 ```
 gmail: ndungumarion@gmail.com
 
-#By:
+# By:
 
 ```
 Marion Ndungu
